@@ -1,5 +1,7 @@
 # Short Video Platform – Final Delivery
 
+## Project implementation repository
+https://github.com/v0lg-s/Project-Implementation.git 
 ##  Project Overview
 
 This project implements a **scalable, low-latency backend for a short-form video platform** using a **hybrid architecture with PostgreSQL and Firebase Realtime Database**.
