@@ -14,7 +14,7 @@ It is designed to handle **real-time user interactions under viral load conditio
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - **PostgreSQL**: ACID-compliant, advanced queries for transactional data.
 - **Firebase Realtime Database**: Real-time ingestion and synchronization of user interactions.
